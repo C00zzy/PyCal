@@ -1,5 +1,5 @@
 # To-Do List:
-1. Add Subtraction, Multiplication, and Division Functions
+1. Add Subtraction, Multiplication, and Division Functions -- DONE
 
 2. Create similar functions for subtraction, multiplication, and division.
 Ensure proper error handling (e.g., division by zero).
