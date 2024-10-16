@@ -1,4 +1,6 @@
 import tkinter as tk
+
+from requests import delete
 # First draft
 # Took some code from chatgpt and just added on top of it
 # Let me commit
@@ -7,11 +9,9 @@ import tkinter as tk
 root_window = tk.Tk()
 root_window.title("Simple Calculator")
 def insert_1():
-    entry.insert(0, tk.END)
     entry.insert(0, 1) # type: ignore
 
 def insert_2():
-    entry.delete(0, tk.END)
     entry.insert(0, 2)
 
 entry = tk.Entry(root_window, width=40)
