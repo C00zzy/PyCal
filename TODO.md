@@ -3,10 +3,10 @@
 
 2. Create similar functions for subtraction, multiplication, and division.
 Ensure proper error handling (e.g., division by zero).
-Add Error Handling for Invalid Inputs
+Add Error Handling for Invalid Inputs -- DONE
 
 3. Use try-except blocks to handle non-numeric inputs and display error messages.
-Organize Layout (Optional)
+Organize Layout (Optional) 
 
 4. Add labels for input fields to make it clear which entry corresponds to the first and second number.
 Group buttons (addition, subtraction, etc.) in a more organized way (e.g., using frames).
