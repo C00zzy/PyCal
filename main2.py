@@ -1,5 +1,5 @@
 import tkinter as tk  # Import the tkinter library for GUI creation
-
+# Comments made by AI 
 # Create the root window
 root_window = tk.Tk()
 root_window.title("PyCal")  # Set the title of the window
